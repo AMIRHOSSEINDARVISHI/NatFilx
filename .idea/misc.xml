@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1175" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/drawable/ic_round_code_24.xml" value="0.1175" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/drawable/ic_round_favorite_24.xml" value="0.1175" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/drawable/ic_round_home_24.xml" value="0.1175" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/drawable/ic_round_like_off_24.xml" value="0.1175" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/drawable/ic_round_like_on_24.xml" value="0.1175" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/drawable/ic_round_person_24.xml" value="0.1175" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/layout/activity_main.xml" value="0.2546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/layout/card_video_and_like.xml" value="0.2546875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/NetFlix/app/src/main/res/menu/menu_app.xml" value="0.2546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
